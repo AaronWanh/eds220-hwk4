@@ -22,6 +22,9 @@ This repository contains a data folder that holds geopackage files of both perim
 
 ## Data:
 The data is housed in the data folder called 'data' and in order to run the notebook, you will need to download all the data files. 
+* Landsat: This dataset contains Landsat 8 Collection 2 Level 2 surface reflectance data that is composed of a collection of spectral bands including red, blue, green bands and various infrared wavelengths to map out the surface of the Earth specifically in the LA region. Using these bands, allows us to create true and false color images.
+* Eaton Perimeter: This dataset provides geospatial data of the fires of Eaton Canyon. It shows the region of California that was affected by the fire.
+* Palisades Perimeter: This dataset provides geospatial data of the fires of the Palisades area. It shows the region of California that was affected by the fire.
 
 
 ## Citations:
